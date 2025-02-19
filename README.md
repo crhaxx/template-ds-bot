@@ -48,7 +48,7 @@ npm install -g nodemon
 Create an `.env` file and set the value of **TOKEN** (bot token)
 
 ```bash
-TOKEN = 123
+TOKEN = 
 ```
 
 Set **testServer**, **clientId**, **devs**, **reactionRolesChannelID** in the `config.json` file
